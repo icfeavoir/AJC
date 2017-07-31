@@ -1,0 +1,145 @@
+/* GENERAL */
+*{
+	margin: 0;
+	padding: 0;
+	z-index: 1;
+}
+html{
+	background: rgb(57, 115, 141) url('../img/bg.png') no-repeat center fixed;
+ 	-webkit-background-size: cover; /* pour anciens Chrome et Safari */
+ 	background-size: cover; /* version standardisée */
+}
+
+.general-div{
+	background-color: rgb(240, 240, 240);
+	margin: 2%;
+	padding: 1%;
+	border-radius: 10px;
+}
+
+.text-center{
+	text-align: center;
+}
+
+.vertical-align{
+	vertical-align: middle;
+}
+
+/* HEADER */
+
+/* MENU */
+.menu{
+	position: relative;
+	background-color: black;
+	width: 100%;
+	text-align: center;
+	height: 70px;
+	z-index: 2;
+}
+#menu-home-img{
+	position: relative;
+	text-align: center;
+	transition: filter 0.5s, -webkit-filter 0.5s;
+}
+.fa{
+	margin-right: 10px;
+}
+#menu-home-img img{
+	width: 60%;
+    	vertical-align: middle;
+    	display: inline-block;
+}
+#menu-home-img::before {
+    	content: ' ';
+    	display: inline-block;
+    	vertical-align: middle;
+    	height: 100%;
+}
+
+.menu li a{
+	position: relative;
+	color: white;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 130%;
+	margin: 0;
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+.menu li{
+	display: inline-block;
+	vertical-align: middle;
+	height: 70px;
+	line-height: 70px;
+	width: 15%;
+	padding: 0;
+
+	transition: background-color 0.5s;
+}
+
+.submenu li{
+	font-size: 80%;
+	display: inherit;
+	width: auto;
+	padding: 0px 10px 0px 10px;
+}
+.submenu{
+	position: absolute;
+	background-color: rgb(57, 115, 141);
+	visibility: hidden;
+	opacity: 0;
+
+	transition: opacity 0.5s;
+}
+
+/* ANIMATION MENU */
+		
+	.menu-item:hover{
+		background-color: rgb(57, 115, 141);
+	}
+	.submenu:hover li:hover{
+		background-color: rgb(82, 185, 157);
+	}
+	#menu-home-img:hover{
+		-webkit-filter: saturate(500%);
+	}
+	.menu li:hover .submenu{
+		visibility: visible;
+		opacity: 1;
+	}
+
+
+
+/* FOOTER */
+
+footer{
+	color: white;
+	background-color: black;
+	text-align: center;
+	width: 100%;
+	padding: 1% 0 1% 0;
+}
+footer a{
+	margin: 1% 3% 1% 3%;
+}
+.fa-facebook{
+	color: #3b5998;
+}
+.fa-twitter{
+	color: #1da1f2;
+}
+.fa-instagram{
+	color: #fcaf45;
+}
+
+
+/* MOBILE VERSION */
+
+/* MENU */
+
+@media screen and (max-width: 873px) {
+	.menu-text{
+		display: none;
+	}
+}

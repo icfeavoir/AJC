@@ -1,0 +1,13 @@
+.err{
+	text-align: center;
+	padding: 1%;
+	font-size: 30px;
+}
+
+.messErr{
+	color: black;
+	text-decoration: none;
+	background-color: rgb(240, 240, 240);
+	padding: 1%;
+	border-radius: 10px;
+}

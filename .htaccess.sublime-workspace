@@ -1,0 +1,1116 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"formpre",
+				"form_presence_oui"
+			],
+			[
+				"Slac",
+				"SlackConfig"
+			],
+			[
+				"Sl",
+				"SlackConfig"
+			],
+			[
+				"session",
+				"session_destroy"
+			],
+			[
+				"reser",
+				"reservation"
+			],
+			[
+				"poles_",
+				"poles_user"
+			],
+			[
+				"pol",
+				"poles_user"
+			],
+			[
+				"PROS",
+				"PROSPECTION"
+			],
+			[
+				"pole",
+				"pole_str"
+			],
+			[
+				"subs",
+				"substr_count"
+			],
+			[
+				"PRO",
+				"PROJET"
+			],
+			[
+				"bin",
+				"bindec"
+			],
+			[
+				"hasPe",
+				"hasPermission"
+			],
+			[
+				"tin",
+				"tinytext"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"resize",
+				"resize_img"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"is",
+				"isMobile"
+			],
+			[
+				"t",
+				"today"
+			],
+			[
+				"date",
+				"date_naissance"
+			],
+			[
+				"dat",
+				"date_naissance"
+			],
+			[
+				"form",
+				"formData"
+			],
+			[
+				"sour",
+				"sourcePath"
+			],
+			[
+				"pinr",
+				"print_r"
+			],
+			[
+				"nom",
+				"nom"
+			],
+			[
+				"ale",
+				"alert-danger"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"alert-",
+				"alert-success"
+			],
+			[
+				"pre",
+				"prenom"
+			],
+			[
+				"bo",
+				"border-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"get",
+				"getLargeur"
+			],
+			[
+				"del",
+				"deltaY"
+			],
+			[
+				"deplac",
+				"deplacerVers"
+			],
+			[
+				"file",
+				"file_extension"
+			],
+			[
+				"new_a",
+				"form_new_ajceen"
+			],
+			[
+				"modal",
+				"modal_show"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"txt",
+				"text-center"
+			],
+			[
+				"nombre",
+				"nombre_articles"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"SE",
+				"_SERVER"
+			],
+			[
+				"de",
+				"deltaY"
+			],
+			[
+				"set",
+				"setY"
+			],
+			[
+				"delta",
+				"deltaX"
+			],
+			[
+				"anne",
+				"anneeNaissance"
+			],
+			[
+				"arti",
+				"article_page"
+			],
+			[
+				"curre",
+				"current_page"
+			],
+			[
+				"input",
+				"input-group-prenom"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"input-gr",
+				"input-group-addon"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"tex",
+				"textarea"
+			],
+			[
+				"for",
+				"form2"
+			],
+			[
+				"inter",
+				"intervention"
+			],
+			[
+				"Conc",
+				"CONCAT"
+			],
+			[
+				"exit",
+				"exitError"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"vide",
+				"video_recrutement"
+			],
+			[
+				"res",
+				"resume_rapide"
+			],
+			[
+				"interv",
+				"intervention"
+			],
+			[
+				"resum",
+				"resume_rapide"
+			],
+			[
+				"nu",
+				"numero"
+			],
+			[
+				"nume",
+				"numeroEtude"
+			],
+			[
+				"url",
+				"urlTest"
+			],
+			[
+				"limit",
+				"limitToLast"
+			],
+			[
+				"obj",
+				"firebaseObject"
+			],
+			[
+				"f",
+				"firebaseArray"
+			],
+			[
+				"ch",
+				"changeState"
+			],
+			[
+				"butt",
+				"buttonStates"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"lo",
+				"LoadTimeDone"
+			],
+			[
+				"FE",
+				"FETCH_UNIQUE"
+			],
+			[
+				"user",
+				"userConnect"
+			],
+			[
+				"fi",
+				"firebase"
+			],
+			[
+				"fir",
+				"firebase"
+			],
+			[
+				"ioni",
+				"ionicGesture"
+			],
+			[
+				"fire",
+				"firebaseObject"
+			],
+			[
+				"ob",
+				"objMaj"
+			],
+			[
+				"showm",
+				"showMajPopup"
+			],
+			[
+				"show",
+				"showMajPopup"
+			],
+			[
+				"etudes__inter",
+				"etudes__interventions"
+			],
+			[
+				"value",
+				"valueEvent"
+			],
+			[
+				"key",
+				"keyEvent"
+			],
+			[
+				"load",
+				"loaded"
+			],
+			[
+				"fo",
+				"forEach"
+			],
+			[
+				"stat",
+				"stateParams"
+			],
+			[
+				"ionic",
+				"ionicView"
+			],
+			[
+				"max",
+				"maxlength\tAttr"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"subt",
+				"subtitle"
+			],
+			[
+				"righ",
+				"rights"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"rig",
+				"rightName"
+			],
+			[
+				"arr",
+				"arrangeDate"
+			],
+			[
+				"fireba",
+				"firebaseObject"
+			],
+			[
+				"clientC",
+				"clientComptable"
+			],
+			[
+				"frais",
+				"fraisDossier"
+			],
+			[
+				"resu",
+				"resumeRap"
+			],
+			[
+				"u",
+				"usersList"
+			],
+			[
+				"snap",
+				"snapChild"
+			],
+			[
+				"chil",
+				"childSnap"
+			],
+			[
+				"ver",
+				"verifConf"
+			],
+			[
+				"firebase",
+				"firebaseArray"
+			],
+			[
+				"cp",
+				"copyInLocal"
+			],
+			[
+				"cop",
+				"copyInLocal"
+			],
+			[
+				"loca",
+				"localStorage"
+			],
+			[
+				"firebas",
+				"firebaseArray"
+			],
+			[
+				"da",
+				"datetime"
+			],
+			[
+				"las",
+				"lastDelTime"
+			],
+			[
+				"l",
+				"lastDel"
+			],
+			[
+				"prova",
+				"provenance"
+			],
+			[
+				"S",
+				"StorageService"
+			],
+			[
+				"stora",
+				"StorageService"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"ilnine",
+				"inline-block"
+			],
+			[
+				"wea",
+				"weatherData"
+			],
+			[
+				"append",
+				"append-article"
+			],
+			[
+				"m",
+				"error-msg"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"iframe",
+				"iframe-fb"
+			],
+			[
+				"face",
+				"facebook-widget"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"htmls",
+				"htmlspecialchars_decode"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"con",
+				"config"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/F/Users/Pierre/Documents/SEIO/intraJE/apps/directory/index.php",
+			"settings":
+			{
+				"buffer_size": 2593,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "bat",
+		"selected_items":
+		[
+			[
+				"bat",
+				"Set Syntax: Batch File"
+			],
+			[
+				"sssh",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 391.0
+	},
+	"console":
+	{
+		"height": 114.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/Users/Pierre/Documents/SEIO/intraJE/.htaccess",
+		"/C/Users/Pierre/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/F/Users/Pierre/Documents/SEIO/intraJE/system/class/Fiche.class.php",
+		"/F/Users/Pierre/Documents/SEIO/intraJE/system/class/html_files/HTML_namespace/Form.class.php",
+		"/F/Users/Pierre/Documents/SEIO/intraJE/apps/fiches/controler/gest_reunion.php",
+		"/F/Users/Pierre/Documents/SEIO/intraJE/apps/reunions/gest_newReunion.php",
+		"/F/Users/Pierre/Documents/SEIO/intraJE/composer.json",
+		"/F/Users/Pierre/Documents/SEIO/intraJE/apps/fiches/view/team_member.php",
+		"/F/Users/Pierre/Documents/SEIO/intraJE/apps/reunions/index.php",
+		"/F/Users/Pierre/Documents/SEIO/intraJE/system/config/slack.default.php",
+		"/F/Users/Pierre/Documents/SEIO/intraJE/dev/sql/default.sql",
+		"/F/Users/Pierre/Documents/SEIO/intraJE/api/fenetres/fenetres.js",
+		"/F/Users/Pierre/Documents/SEIO/intraJE/system/class/html_files/HTML.class.php",
+		"/F/Users/Pierre/Documents/SEIO/intraJE/system/func/date.php",
+		"/F/Users/Pierre/Documents/SEIO/intraJE/apps/fiches/view/reunion.php",
+		"/F/Users/Pierre/Documents/SEIO/intraJE/system/config/_general.config.php",
+		"/F/Users/Pierre/Documents/SEIO/intraJE/api/menu/api.php",
+		"/F/Users/Pierre/Documents/SEIO/intraJE/apps/fiches/controler/gest_team.php",
+		"/F/Users/Pierre/Documents/SEIO/intraJE/apps/fiches/gest.php",
+		"/F/Users/Pierre/Documents/SEIO/website/attainments.php",
+		"/F/Users/Pierre/Documents/SEIO/website/gest_contact.php",
+		"/F/Users/Pierre/Documents/AJC/website AJC/pmc/index.php",
+		"/F/Users/Pierre/Documents/AJC/website AJC/admin/liste_pdf.php",
+		"/F/Users/Pierre/Documents/AJC/website AJC/admin/index.php",
+		"/F/Users/Pierre/Documents/AJC/website AJC/admin/dev/header.php",
+		"/F/Users/Pierre/Documents/AJC/website AJC/admin/dev/fonctions.php",
+		"/F/Users/Pierre/Documents/AJC/website AJC/admin/dev/login.php",
+		"/F/Users/Pierre/Documents/AJC/website AJC/admin/login.php",
+		"/F/Users/Pierre/Documents/AJC/website AJC/admin/modal/reservation.php",
+		"/F/Users/Pierre/Documents/AJC/website AJC/admin/ajax/reservation.php",
+		"/F/Users/Pierre/Documents/AJC/website AJC/fpdf.php",
+		"/F/Users/Pierre/Documents/AJC/website AJC/.gitignore",
+		"/F/Users/Pierre/Documents/SEIO/intraJE/system/class/Session.class.php",
+		"/F/Users/Pierre/Documents/SEIO/intraJE/apps/reunions/newReunion.php",
+		"/F/Users/Pierre/Documents/SEIO/intraJE/dev/sql/structure.sql",
+		"/F/Users/Pierre/Documents/SEIO/intraJE/vendor/prep/prep/prep_files/Table.class.php",
+		"/F/Users/Pierre/Documents/SEIO/intraJE/system/.htaccess",
+		"/F/Users/Pierre/Documents/SEIO/intraJE/apps/directory/index.php",
+		"/F/Users/Pierre/Documents/SEIO/intraJE/vendor/prep/prep/prep_files/Where.class.php",
+		"/F/Users/Pierre/Documents/SEIO/intraJE/vendor/prep/prep/prep_files/Condition.class.php",
+		"/F/Users/Pierre/Documents/SEIO/intraJE/vendor/prep/prep/Prep.class.php",
+		"/F/Users/Pierre/Documents/SEIO/intraJE/system/class/html_files/HTML_namespace/Table.class.php",
+		"/F/Users/Pierre/Documents/SEIO/intraJE/apps/etudes/index.php",
+		"/F/Users/Pierre/Documents/AJC/website AJC/dev/config.php",
+		"/F/Users/Pierre/Documents/AJC/website AJC/dev/db.php",
+		"/F/Users/Pierre/Documents/SEIO/website/index.php",
+		"/F/Users/Pierre/Documents/SEIO/website/test.html",
+		"/F/Users/Pierre/Documents/SEIO/website/contact.php",
+		"/F/Users/Pierre/Documents/SEIO/website/css/index.css",
+		"/F/Users/Pierre/Documents/SEIO/website/test.php",
+		"/F/Users/Pierre/Documents/AJC/website AJC/contact.php",
+		"/F/Users/Pierre/Documents/AJC/website AJC/index.php",
+		"/F/Users/Pierre/Desktop/gitkraken_rsa",
+		"/F/Users/Pierre/Desktop/gitkraken_rsa.pub",
+		"/F/Users/Pierre/Documents/SEIO/intraJE/apps/audits/gest_newCheck.php",
+		"/F/Users/Pierre/Documents/SEIO/intraJE/apps/audits/newCheck.php",
+		"/F/Users/Pierre/Documents/SEIO/intraJE/apps/audits/newCheck.js",
+		"/F/Users/Pierre/Documents/SEIO/intraJE/apps/audits/gest_newModel.php",
+		"/F/Users/Pierre/Documents/SEIO/intraJE/system/config/_general.default.php",
+		"/F/Users/Pierre/Documents/SEIO/intraJE/.gitignore",
+		"/F/Users/Pierre/Documents/SEIO/intraJE/apps/fiches/view/api.php",
+		"/F/Users/Pierre/Documents/SEIO/intraJE/apps/fiches/view/etude.php",
+		"/F/Users/Pierre/Documents/SEIO/intraJE/dev/addNewUser.php",
+		"/F/Users/Pierre/Documents/SEIO/intraJE/system/func/index.php",
+		"/F/Users/Pierre/Documents/SEIO/intraJE/vendor/composer/autoload_real.php",
+		"/F/Users/Pierre/Documents/SEIO/intraJE/dev/test.php",
+		"/F/Users/Pierre/Documents/SEIO/intraJE/apps/addNewUser.php",
+		"/F/Users/Pierre/Documents/SEIO/intraJE/composer.lock",
+		"/F/Users/Pierre/Documents/SEIO/intraJE/system/class/connection_classes/Auth0Connection.class.php",
+		"/F/Users/Pierre/Documents/SEIO/website/dev/footer.php",
+		"/F/Users/Pierre/Documents/SEIO/intraJE/system/config/apis.default.php",
+		"/F/Users/Pierre/Documents/AJC/website AJC/css/style.css",
+		"/F/Users/Pierre/Documents/AJC/website AJC/css/erreur.css",
+		"/F/Users/Pierre/Documents/AJC/website AJC/erreur.php",
+		"/F/Users/Pierre/Documents/AJC/website AJC/.htaccess",
+		"/F/Users/Pierre/Documents/AJC/website AJC/css/index.css",
+		"/F/Users/Pierre/Documents/AJC/website AJC/dev/header.php",
+		"/F/Users/Pierre/Documents/AJC/website AJC/reservations/index.php",
+		"/F/Users/Pierre/Documents/AJC/website AJC/reservation/index.php",
+		"/F/Users/Pierre/Documents/SEIO/intraJE/apps/apply/backoffice.php",
+		"/F/Users/Pierre/Documents/AJC/website AJC/reserations/index.php",
+		"/F/Users/Pierre/Documents/SEIO/intraJE/system/config.php",
+		"/F/Users/Pierre/Documents/SEIO/intraJE/apps/ca/ca.php",
+		"/C/Users/Pierre/Documents/intraje/system/config/_general.default.php",
+		"/C/Users/Pierre/Documents/intraje/system/class/Session.class.php",
+		"/C/Users/Pierre/Documents/intraje/system/class/connection_classes/NoCredentialsConnection.class.php",
+		"/C/Users/Pierre/Documents/intraje/system/config.php",
+		"/F/Users/Pierre/Documents/AJC/website AJC/admin/dev/postAcceptor.php",
+		"/F/Users/Pierre/Documents/AJC/website AJC/admin/js/new_article.js",
+		"/F/Users/Pierre/Documents/AJC/website AJC/admin/modal/new_article.php",
+		"/F/Users/Pierre/Documents/AJC/website AJC/admin/ajax/save_article.php",
+		"/F/Users/Pierre/Documents/AJC/website AJC/admin/ajax/save_ajceen.php",
+		"/F/Users/Pierre/Documents/AJC/website AJC/admin/ajax/save_album.php",
+		"/F/Users/Pierre/Documents/AJC/website AJC/css/photos.css",
+		"/F/Users/Pierre/Documents/AJC/website AJC/photos.php",
+		"/F/Users/Pierre/Documents/AJC/website AJC/ajc.php",
+		"/F/Users/Pierre/Documents/AJC/website AJC/admin/js/album.js",
+		"/F/Users/Pierre/Documents/AJC/website AJC/admin/modal/album.php",
+		"/F/Users/Pierre/Documents/AJC/website AJC/admin/js/new_ajceen.js",
+		"/F/Users/Pierre/Documents/AJC/website AJC/admin/modal/ajceen.php",
+		"/F/Users/Pierre/Documents/AJC/website AJC/admin/ajax/membre.php",
+		"/F/Users/Pierre/Documents/AJC/website AJC/admin/modal/new_ajceen.php",
+		"/F/Users/Pierre/Documents/AJC/website AJC/admin/js/fonctions.js",
+		"/F/Users/Pierre/Documents/AJC/website AJC/admin/ajax/album.php",
+		"/F/Users/Pierre/Documents/AJC/website AJC/admin/modal/article.php",
+		"/F/Users/Pierre/Documents/AJC/website AJC/admin/test2.php",
+		"/F/Users/Pierre/Documents/AJC/website AJC/css/ajc.css",
+		"/F/Users/Pierre/Documents/AJC/website AJC/dev/footer.php",
+		"/F/Users/Pierre/Documents/SEIO/website/dev/header.php",
+		"/F/Users/Pierre/Documents/AJC/website AJC/dev/fonctions.php",
+		"/F/Users/Pierre/Documents/AJC/website AJC/js/fonctions.js",
+		"/F/Users/Pierre/Documents/AJC/website AJC/dev/save_data.php",
+		"/F/Users/Pierre/Documents/AJC/website AJC/js/index.js",
+		"/F/Users/Pierre/Documents/AJC/website AJC/admin/ajax/update.php",
+		"/F/Users/Pierre/Documents/AJC/website AJC/admin/js/ajceen.js",
+		"/F/Users/Pierre/Documents/AJC/website AJC/admin/test.php",
+		"/F/Users/Pierre/Documents/AJC/website AJC/admin/dev/save_ajceen.php",
+		"/F/Users/Pierre/Documents/AJC/website AJC/admin/js/article.js",
+		"/F/Users/Pierre/Documents/AJC/website AJC/admin/css/style.css",
+		"/F/Users/Pierre/Documents/AJC/website AJC/admin/dev/script.php",
+		"/F/Users/Pierre/Documents/AJC/website AJC/admin/js/folder.js",
+		"/F/Users/Pierre/Documents/AJC/website AJC/admin/modal/folder.php",
+		"/F/Users/Pierre/Documents/AJC/website AJC/admin/ajax/save.php",
+		"/F/Users/Pierre/Documents/AJC/website AJC/admin/ajax/delete.php",
+		"/F/Users/Pierre/Documents/AJC/website AJC/admin/dev/footer.php",
+		"/F/Users/Pierre/Documents/AJC/website AJC/reservation.php",
+		"/F/Users/Pierre/Documents/AJC/website AJC/ajax/reservation.php",
+		"/F/Users/Pierre/Documents/AJC/website AJC/css/reservation.css"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"F:\\Users\\Pierre\\Documents\\SEIO\\intraJE",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Administratif",
+			"page->body ",
+			"fiche",
+			"noXSS",
+			"relati",
+			"create",
+			"SlackConfig",
+			"slack",
+			"new HTML",
+			"signature",
+			"po",
+			"$update_right",
+			"getR",
+			"getS",
+			"get",
+			");\n",
+			"']);\n",
+			"reunions__obj",
+			"reunions__",
+			"get_",
+			"selectAll",
+			"date",
+			"add",
+			"_GET",
+			"_POST",
+			"contactSl",
+			"inti",
+			"righ",
+			"get",
+			".",
+			"annuau",
+			"LEROY",
+			"?",
+			"erreur",
+			"msg",
+			"echo",
+			"http://www.ajc-courcite.fr/",
+			"siteduzero.com",
+			"by",
+			"create",
+			"Ma Junior Entreprise",
+			"photo",
+			"ajceen",
+			"}\n",
+			"                $('#message').text(msg);   \n",
+			"exit",
+			"$_POST",
+			"bitb",
+			"ok",
+			"getPrenom()",
+			"getNom()",
+			"source",
+			"vie",
+			"Vie",
+			"test",
+			">",
+			"tiny",
+			"| ",
+			"fail",
+			"err",
+			"add",
+			"underlin",
+			".intro",
+			"video",
+			"{\n",
+			"checks__a",
+			"$user",
+			"function s",
+			"function select",
+			"select",
+			"etude",
+			"NOT",
+			"DEFAULT",
+			"`etudes__list`",
+			"ALTER TABLE `etudes__list`",
+			"competences__r",
+			"competences",
+			"competences_r",
+			"competences_rea",
+			"input",
+			"compé",
+			"downl",
+			"addupl",
+			"joinup",
+			"créer",
+			"main",
+			"array_map",
+			"etudes__int",
+			"LERO",
+			"password_verify",
+			"conso",
+			"affI",
+			"etudes__list",
+			"addElem",
+			"ok",
+			"cdp",
+			"answerUpdate",
+			"stable",
+			"etudes__realisateurs",
+			"version",
+			"href",
+			"angular-animate",
+			"t",
+			"submit",
+			"subm",
+			"contr",
+			"colloc",
+			"ok",
+			"color",
+			"admin",
+			"console",
+			"rootScop",
+			"console",
+			"copyInLocal",
+			"}",
+			"getAll()",
+			"cope.items",
+			"scope.taille",
+			"connect",
+			"$root",
+			"$scope.connectio",
+			"console",
+			"Prep::select",
+			";\n",
+			"cordova.js",
+			"f:/users/pierre/documents/seio/intraje",
+			"study",
+			"art"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$update_right_false",
+			"_POST",
+			"_GET",
+			"::",
+			"?erreur=",
+			"/erreur",
+			"msg =",
+			"$msg",
+			"erreur.php?",
+			"ajc-courcite.fr",
+			"$row",
+			"prenom",
+			"nom",
+			"userId",
+			"$etude",
+			"DEFAULT",
+			"answer",
+			"info",
+			"/",
+			".menu",
+			"90deg",
+			"<div class=\"menu-item\"><a",
+			"",
+			".img-process::",
+			"\"ok\"",
+			":",
+			"",
+			"tr",
+			"=\"step",
+			".step",
+			".s",
+			" ",
+			"&#124;",
+			"jpeg",
+			"jpg",
+			"gif"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/F/Users/Pierre/Documents/SEIO/intraJE/apps/directory/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2593,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								318,
+								318
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": ".htaccess.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 199.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

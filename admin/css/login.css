@@ -1,0 +1,8 @@
+body{
+	background-color: gray;
+}
+
+.erreur{
+	text-align: center;
+	color: red;
+}

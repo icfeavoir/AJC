@@ -1,0 +1,99 @@
+.article{
+	position: relative;
+	vertical-align: top;
+	display: inline-block;
+	border: 5px solid lightgrey;
+	width: 40%;
+	margin: 4% 2% 2% 2%;
+	background-color: white;
+}
+
+.title{
+	position: relative;
+	font-size: 25px;
+	font-weight: bold;
+	margin: 0 5vw 0 5vw;
+	padding: 6% 0 6% 0;
+	border-bottom: 2px solid lightgrey;
+	text-align: justify-all;
+}
+
+.date{
+	position: absolute;
+	height: 4vw;
+	width: 4vw;
+	padding: 1%;
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+	border-radius: 50%;
+	background: midnightblue;
+	top: 10px;
+	left: calc(-2vw - 5px);
+}
+
+.date-block p{
+	color: white;
+	font-weight: bold;
+}
+.date-day{
+	display: block;
+    	font-size: 3vw;
+    	line-height: 2.5vw;
+}
+.date-month{
+	display: block;
+    	font-size: 1vw;
+    	text-transform: uppercase;
+}
+
+.text-article{
+	padding: 2%;
+	margin: 2% 0 2% 0;
+	text-align: justify;
+	overflow: hidden;
+}
+
+.comments{
+	float: left;
+}
+.category{
+	float: right;
+	border-left: 2px solid lightgrey;
+}
+.comments, .category{
+	color: grey;
+	margin-top: 1%;
+	margin-bottom: 1%;
+	padding: 5% 0 1% 0;
+	width: 49%;
+}
+.article-bottom{
+	margin: 0 5vw 0 5vw;
+	border-bottom: 2px solid lightgrey;
+	text-align: center;
+}
+
+@media screen and (max-width: 932px) {
+	.article{
+		width: 80%;
+	}
+}
+
+.fa-wrench:before{
+	content: "\f0ad";
+}
+
+.messEvron{
+	text-align: center;
+	padding: 1%;
+	font-size: 30px;
+}
+
+.textEvron{
+	color: white;
+	text-decoration: none;
+	background-color: red;
+	padding: 1%;
+	border-radius: 10px;
+}

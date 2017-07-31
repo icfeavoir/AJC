@@ -1,0 +1,11 @@
+#modal .modal-dialog{
+	width:75%;
+}
+
+#modal table{
+	width: 100%;
+}
+
+.hover_main:hover{
+	cursor: pointer;
+}

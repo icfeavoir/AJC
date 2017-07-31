@@ -1,0 +1,15 @@
+body{
+	background-color: transparent;
+}
+
+.border-container{
+	background-color: white;
+	border: 2px solid grey;
+	border-radius: 10px;
+	padding: 1%;
+	width: 95%;
+}
+
+#submit{
+	font-size: 20px;
+}
